@@ -116,6 +116,7 @@ text-shadow:2px 2px red ;
     border-radius: 5px;
     float: right;
    margin-left:40%;
+   width:150px;
 }
 .contact a{
     color: white;
